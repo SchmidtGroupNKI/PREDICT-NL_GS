@@ -16,9 +16,9 @@ The prognostic effect of 70-GS was obtained from the MINDACT study (for details,
 | pool_perf.R                        | Pooling function and other functions used.
 
 # Contact
-Mary Ann E. Binuya <br/>
+Marjanka Schmidt <br/>
 Netherlands Cancer Institute <br/>
-[m.binuya@nki.nl](m.binuya@nki.nl)
+[mk.schmidt@nki.nl](mk.schmidt@nki.nl)
 
 # Authors
 | Author                 | Role   | Description             |
@@ -29,7 +29,7 @@ Netherlands Cancer Institute <br/>
 | Coralie Poncet    | Author | Review  |
 | Emiel Rutgers     | Author | Review  |
 | Martine Piccart   | Author | Review  |
-| Fatima Cargoso    | Author | Review  |
+| Fatima Cardoso    | Author | Review  |
 | Laura van 't Veer | Author | Review  |
 | Ewout Steyerberg  | Author | Development and review  |
 | Sabine Linn       | Author | Development and review  |
